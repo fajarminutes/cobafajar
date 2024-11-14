@@ -1,0 +1,11 @@
+id,nama_kelompok_api,nama_sub_kelompok_api,nama_subsub_kelompok_api,nama_master_api,singkatan_master_api,status,koefisien_produktivitas,createdAt,updatedAt,tarif,selektivitas,kode_akun,kode_pp,kode_tarif,is_delete
+7e91fd70-c942-4084-b7eb-b2c4c5159452,,,,Pukat Harimau,PH,,,2024-07-27 03:12:29.704177,2024-07-27 03:12:29.704177,,,,,,False
+1748b240-566d-4e8f-be99-d84374ba6eb8,,,,Pukat Hela Kembar Berpapan,OTT,,,2024-07-27 03:12:29.704177,2024-07-27 03:12:29.704177,,,,,,False
+f3387c50-25a9-4c00-901a-bb08d43712cf,,,,Pukat Hela Dasar Dua Kapal,PTB,,,2024-07-27 03:12:29.704177,2024-07-27 03:12:29.704177,,,,,,False
+1dca0578-1379-4bf0-a014-9ce632cc52e7,,,,Pukat Hela Pertengahan Dua Kapal,PTM,,,2024-07-27 03:12:29.704177,2024-07-27 03:12:29.704177,,,,,,False
+7f7d66d5-4a09-4cd6-b262-9307d1e388ec,,,,Penggaruk Berkapal,DRB,,,2024-07-27 03:12:29.704177,2024-07-27 03:12:29.704177,,,,,,False
+b3744ce0-9e32-408e-9df3-fb35942ef2ae,,,,Penggaruk Tanpa Kapal,DRH,,,2024-07-27 03:12:29.704177,2024-07-27 03:12:29.704177,,,,,,False
+19146599-d5e6-4274-b8f4-50d2928e9cdf,,,,Penggaruk Mekanis,DRM,,,2024-07-27 03:12:29.704177,2024-07-27 03:12:29.704177,,,,,,False
+b4735334-8b1c-443b-be9d-8bd1920b7987,,,,Penggaruk Lainnya,DRX,,,2024-07-27 03:12:29.704177,2024-07-27 03:12:29.704177,,,,,,False
+9a9bbfdf-b374-43e4-bf3d-cdea5b22e7d8,,,,Anco,LNP,,,2024-07-27 03:12:29.704177,2024-07-27 03:12:29.704177,,,,,,False
+b4f71827-2abc-4db7-b233-51d9d64c9e47,,,,Bagan Apung Teri,LNB-BGT,,,2024-07-27 03:12:29.704177,2024-07-27 03:12:29.704177,,,,,,False
